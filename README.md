@@ -10,7 +10,7 @@ This project performs the following:
 
 -Transfer
 
--Show you Balance
+-Show your Balance
 
 Contributors
 
